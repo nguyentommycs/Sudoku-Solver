@@ -17,23 +17,23 @@ If you enter a puzzle that doesn't have a solution, the final grid will simply r
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
- 2. Create a virtual environment
-  ```sh
-  python -m venv env
-  ```
+2. Create a virtual environment
+   ```sh
+   python -m venv env
+   ```
 3a. For Linux, activate the virtual environment<br />
-  ```sh
-  source env/bin/activate
-  ```
+   ```sh
+   source env/bin/activate
+   ```
 3b. For Windows, activate the virtual environment<br />
-  ```sh
-  env\Scripts\activate.bat
-  ```
-3. Install pygame
+   ```sh
+   env\Scripts\activate.bat
+   ```
+4. Install pygame
    ```sh
    pip install pygame
    ```
-4. Run the solver
+5. Run the solver
    ```js
    python Game.py
    ```

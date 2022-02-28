@@ -22,6 +22,7 @@ If you enter a puzzle that doesn't have a solution, the final grid will simply r
    python -m venv env
    ```
 3. Activate the virtual environment
+
    For Windows:
    ```sh
    env\Scripts\activate.bat

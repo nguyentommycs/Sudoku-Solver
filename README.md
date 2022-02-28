@@ -21,11 +21,11 @@ If you enter a puzzle that doesn't have a solution, the final grid will simply r
    ```sh
    python -m venv env
    ```
-3a. For Linux, activate the virtual environment<br />
+3a. For Linux, activate the virtual environment
    ```sh
    source env/bin/activate
    ```
-3b. For Windows, activate the virtual environment<br />
+3b. For Windows, activate the virtual environment
    ```sh
    env\Scripts\activate.bat
    ```

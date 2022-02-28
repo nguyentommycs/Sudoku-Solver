@@ -15,7 +15,7 @@ If you enter a puzzle that doesn't have a solution, the final grid will simply r
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/nguyentommycs/Sudoku-Solver.git
    ```
 2. Create a virtual environment
    ```sh

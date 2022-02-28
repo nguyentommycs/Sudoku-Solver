@@ -21,13 +21,14 @@ If you enter a puzzle that doesn't have a solution, the final grid will simply r
    ```sh
    python -m venv env
    ```
-3a. For Linux, activate the virtual environment
-   ```sh
-   source env/bin/activate
-   ```
-3b. For Windows, activate the virtual environment
+3. Activate the virtual environment
+   For Windows:
    ```sh
    env\Scripts\activate.bat
+   ```
+   For Linux:
+   ```sh
+   source env/bin/activate
    ```
 4. Install pygame
    ```sh
